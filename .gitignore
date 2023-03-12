@@ -1,2 +1,4 @@
 tmp/
 *.hop
+*.burp
+*.burp.backup
